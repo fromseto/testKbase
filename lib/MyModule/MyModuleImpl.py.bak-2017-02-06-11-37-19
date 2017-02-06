@@ -19,8 +19,8 @@ class MyModule:
     # the latter method is running.
     ######################################### noqa
     VERSION = "0.0.1"
-    GIT_URL = "https://github.com/fromseto/testKbase.git"
-    GIT_COMMIT_HASH = "2602a3dcadda1ffee36eb802cb1e7ded1bb16eff"
+    GIT_URL = ""
+    GIT_COMMIT_HASH = ""
 
     #BEGIN_CLASS_HEADER
     #END_CLASS_HEADER
